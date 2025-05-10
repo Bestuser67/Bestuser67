@@ -16,7 +16,7 @@ Regulacja obiektu o wielu wejściach i wielu wyjściach, przy użyciu regulator�
 ### Wyniki
 ![Przebiegi odpowiedzi skokowej obiektu](./obrazy/Projekt1/zdjęcie%201.png)
 *Rys. 1: Przebiegi odpowiedzi skokowej*
-![Sygnał sterujący PID](./obrazy/Projekt1/zdjęcie%202.png)
+![Sygnał sterujący PID](./obrazy/Projekt1/Zdjęcie%202.png)
 *Rys. 2: Przebiegi sygnału sterującego PID*
 ![Odpowiedź obiektu dla sterowania PID](./obrazy/Projekt1/Zdjęcie%202%20-%20wyjście.png)
 *Rys. 3: Odpowiedź obiektu na sterowanie PID*
@@ -38,9 +38,13 @@ Celem projektu było stworzenie programu umożliwiającego grę między dwoma gr
 ![Komunikacja przez terminal](./obrazy/Projekt2/sterownie.PNG)
 
 *Rys. 1: Komunikacja z grą przez terminal*
+
 ![Numerowanie pól na planszy](./obrazy/Projekt2/plansza2.PNG)
+
 *Rys. 2: Ponumerowanie pól na planszy*
+
 ![Rozstawienie pionków na planszy](./obrazy/Projekt2/plansza.PNG)
+
 *Rys. 3: Rozstawienie pionków na planszy*
 
 Wynikiem była gra w terminalu w której na początku gry podawało się nazwy graczy, rozmiar plansz oraz czy gracz 2 był człowiekiem czy botem.
